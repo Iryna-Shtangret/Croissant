@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(#2939ef, #f4f008);
+  
+}
+h1 {
+    color: #f4f008;    
+  }
+p,
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
